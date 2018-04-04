@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<!-- Production Project -->
+<!DOCTYPE project [
+<!-- General settings -->
+<!ENTITY user "sporzio">
+<!ENTITY storage_location "scratch">
+<!-- Job settings -->
+<!ENTITY category "Calibration_AsicsTreeTest">
+<!ENTITY name "test">
+<!ENTITY event_n "60000"> <!-- Only for reference -->
+<!ENTITY file_n "2222"> <!-- Only for reference -->
+<!ENTITY job_n "50"> <!-- file_n / maxfileperjob_n, if recursive, this is the number in EACH project -->
+<!ENTITY maxfileperjob_n "5">
+<!ENTITY version "1_1">
+<!-- Larsoft settings -->
+<!ENTITY relreco "v06_26_01_12"> 
+<!-- Main directories definition -->
+<!ENTITY data_dir "/uboone/data/users/&user;">
+<!ENTITY scratch_dir "/pnfs/uboone/scratch/users/&user;">
+<!ENTITY persistent_dir "/pnfs/uboone/persistent/users/&user;">
+<!ENTITY resilient_dir "/pnfs/uboone/resilient/users/&user;">
+<!ENTITY storage_dir "/pnfs/uboone/&storage_location;/users/&user;">
+<!ENTITY gen_upload_dir "&resilient_dir;/GridFiles">
+<!ENTITY upload_dir "&resilient_dir;/GridFiles/&category;">
+<!-- Job directories definition -->
+<!ENTITY out_dir "&storage_dir;/&category;/&name;/v&version;/Samples">
+<!ENTITY log_dir "&storage_dir;/&category;/&name;/v&version;/Logs">
+<!ENTITY work_dir "&resilient_dir;/Work/&category;/&name;/v&version;">
+<!ENTITY book_dir "&data_dir;/Book/&category;/&name;/v&version;">
+]>
+
+
+<job>
+  <project name="&name;_mergeana">
+    <numevents>&event_n;</numevents>
+    <os>SL6</os>
+    <resource>DEDICATED,OPPORTUNISTIC,OFFSITE</resource>
+    <larsoft>
+      <tag>&relreco;</tag>
+      <qual>e10:prof</qual>
+    </larsoft>
+
+    <stage name="mergeana">
+      <inputdef>bnbhsn_swizzle_run3_200eventsTestSample</inputdef>
+      <!-- <recurdef>bnbhsn_swizzle_run3_100kTestSample_part1of2_recurTest</recurdef> -->
+      <!-- <recurtype>snapshot</recurtype> -->
+      <!-- <recurlimit>&job_n;</recurlimit> -->
+      <fcl>/uboone/app/users/sporzio/ReducedFhicl/standardAna_withReco1_outputDropped.fcl</fcl>
+      <numjobs>&job_n;</numjobs>
+      <outdir>&out_dir;/mergeana</outdir>
+      <logdir>&log_dir;/mergeana</logdir>
+      <workdir>&work_dir;/mergeana</workdir>
+      <bookdir>&book_dir;/mergeana</bookdir>
+      <maxfilesperjob>&maxfileperjob_n;</maxfilesperjob>
+      <schema>root</schema>
+      <memory>2000</memory>
+      <jobsub>--expected-lifetime=3h</jobsub> 
+    </stage>
+  </project>
+</job>
