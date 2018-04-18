@@ -1,0 +1,1 @@
+samweb list-files "defname:'prod_extbnb_swizzle_inclusive_v5'" > list_allFiles.list
