@@ -16,13 +16,14 @@
 
 using namespace std;
 
-UInt_t startRun = 13000;
-UInt_t endRun = 14500;
-UInt_t nRuns = endRun = startRun;
-std::string inputFile = "/uboone/data/users/sporzio/Temp/mergedAnaTreesForAsics.root";
+UInt_t startRun = 13697;
+UInt_t endRun = 14115; //16115
+//UInt_t nRuns = endRun = startRun;
+UInt_t nRuns = endRun - startRun;
+std::string inputFile = "/uboone/data/users/sporzio/Calibration/ASICS_InputFiles/mergedAnaTrees_sporzio_run3_oneFilePerRun_18-04-17.root";
 
 int main(){
-
+  std::cout<<nRuns<<std::endl;
   gROOT->Reset();
   TChain *treed = new TChain("analysistree/anatree");
   TH2F* sumHitAmpHist = new TH2F("sumHitAmpHist",";Channel Number; Run Number", 8256,-0.5,8255.5,nRuns,startRun-0.5,endRun-0.5);
@@ -68,9 +69,16 @@ int main(){
   // Calculate averages
   for(UInt_t k = 0; k < nRuns; k++) {
     for(int h = 0; h < 8256; h++) {
-      if (numHitAmpHist->GetBinContent(h+1,k+1) > 0.0) {
-        std::cout << numHitAmpHist->GetBinContent(h+1,k+1) << std::endl;
+      if (numHitAmpHist->GetBinContent(h+1,k+1) > 0.0 ){
+
         avgHitAmpHist->SetBinContent(h+1,k+1,sumHitAmpHist->GetBinContent(h+1,k+1)/numHitAmpHist->GetBinContent(h+1,k+1));
+
+
+        if(avgHitAmpHist->GetBinContent(h+1,k+1)>1000){
+          std::cout<<sumHitAmpHist->GetBinContent(h+1,k+1)<<std::endl;
+          std::cout<<"run="<<h<<"Channel="<<k<<"avgHitAmpHist="<<avgHitAmpHist->GetBinContent(h+1,k+1)<<"numHits="<<numHitAmpHist->GetBinContent(h+1,k+1)<<std::endl;
+        }
+
       }
       else {
         avgHitAmpHist->SetBinContent(h+1,k+1,0.0);
@@ -83,18 +91,21 @@ int main(){
     double num = 0.0;
     double sum = 0.0;
     int counter = 1;
-    for(int h = 0; h < 8256; h++) {
+    for(int h = 0; h < 8256; h++) { //8256
       if (avgHitAmpHist->GetBinContent(h+1,k+1) > 0.0) {
         sum += avgHitAmpHist->GetBinContent(h+1,k+1);
         num += 1.0;
+	       
       }
 
       if ((h+1) % 8 == 0) {
-        if (num > 0.0) {
+        if (num > 0.0 && sum/num < 32) {
           ASICavgHitAmpHist->SetBinContent(counter,k+1,sum/num);
+          
         }
         else {
           ASICavgHitAmpHist->SetBinContent(counter,k+1,0.0);
+	  
         }
 
         num = 0.0;
@@ -111,7 +122,10 @@ int main(){
   numHitAmpHist->SetDirectory(fout);
   avgHitAmpHist->SetDirectory(fout);
   ASICavgHitAmpHist->SetDirectory(fout);
-
+  sumHitAmpHist->SaveAs("sumHitAmpHist.pdf");
+  numHitAmpHist->SaveAs("numHitAmpHist.pdf");
+  avgHitAmpHist->SaveAs("avgHitAmpHist.pdf");
+  ASICavgHitAmpHist->SaveAs("ASICavgHitAmpHist.pdf");
   std::cout << "Writing: " << outputname << std::endl;
 
   fout->Write();
