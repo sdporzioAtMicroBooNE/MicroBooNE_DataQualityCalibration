@@ -1,7 +1,7 @@
 import samweb_client as swc
 
 # Settings
-defName = "sporzio_run3_oneFilePerRun_18-04-17"
+defName = "sporzio_run2_oneFilePerRun_27-04-18"
 
 # Open file
 fIn = "list_1FilePerRun.list"
@@ -10,5 +10,5 @@ with open(fIn,'rb') as fileIn:
 
 # Create definition
 samweb = swc.SAMWebClient(experiment='uboone')
-samweb.createDefinition(defName, fileList, user="sporzio", group="uboone", description="Run 3, one file per each run")
+samweb.createDefinition(defName, fileList, user="sporzio", group="uboone", description="Run 2, one file per each run")
 print "Created definition %s" %(defName)
