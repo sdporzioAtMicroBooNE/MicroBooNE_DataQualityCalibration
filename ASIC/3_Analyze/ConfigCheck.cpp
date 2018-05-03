@@ -17,20 +17,28 @@
 using namespace std;
 
 UInt_t startRun = 13697;
-UInt_t endRun = 14115; //16115
+UInt_t endRun = 16115; //16115
+
 //UInt_t nRuns = endRun = startRun;
 UInt_t nRuns = endRun - startRun;
+
+
+UInt_t startChannel = 3727; //must be multiples of 8
+UInt_t endChannel = 4303; //8256 4303
+UInt_t nChannels = endChannel - startChannel;
+UInt_t ASIC_nbins = nChannels/8;
+
 std::string inputFile = "/uboone/data/users/sporzio/Calibration/ASICS_InputFiles/mergedAnaTrees_sporzio_run3_oneFilePerRun_18-04-17.root";
 
 int main(){
   std::cout<<nRuns<<std::endl;
   gROOT->Reset();
   TChain *treed = new TChain("analysistree/anatree");
-  TH2F* sumHitAmpHist = new TH2F("sumHitAmpHist",";Channel Number; Run Number", 8256,-0.5,8255.5,nRuns,startRun-0.5,endRun-0.5);
-  TH2F* numHitAmpHist = new TH2F("numHitAmpHist",";Channel Number; Run Number", 8256,-0.5,8255.5,nRuns,startRun-0.5,endRun-0.5);
-  TH2F* avgHitAmpHist = new TH2F("avgHitAmpHist",";Channel Number; Run Number", 8256,-0.5,8255.5,nRuns,startRun-0.5,endRun-0.5);
-  TH2F* ASICavgHitAmpHist = new TH2F("ASICavgHitAmpHist",";Channel Number; Run Number", 1032,-0.5,8255.5,nRuns,startRun-0.5,endRun-0.5);
-
+  TH2F* sumHitAmpHist = new TH2F("sumHitAmpHist",";Channel Number; Run Number", nChannels,startChannel-0.5,endChannel-0.5,nRuns,startRun-0.5,endRun-0.5);
+  TH2F* numHitAmpHist = new TH2F("numHitAmpHist",";Channel Number; Run Number", nChannels,startChannel-0.5,endChannel-0.5,nRuns,startRun-0.5,endRun-0.5);
+  TH2F* avgHitAmpHist = new TH2F("avgHitAmpHist",";Channel Number; Run Number", nChannels,startChannel-0.5,endChannel-0.5,nRuns,startRun-0.5,endRun-0.5);
+  TH2F* ASICavgHitAmpHist = new TH2F("ASICavgHitAmpHist",";Channel Number; Run Number", ASIC_nbins,startChannel-0.5,endChannel-0.5,nRuns,startRun-0.5,endRun-0.5);
+  //TH1F* ASICavgHitAmpHist_runave = new TH1F("ASICavgHitAmpHist_runave ","Channel Number",ASIC_nbins,startChannel-0.5,endChannel-0.5);
   UInt_t run = 0;
   UInt_t no_hits = 0;
   Short_t hit_channel[1000000] = {0};
@@ -68,8 +76,8 @@ int main(){
 
   // Calculate averages
   for(UInt_t k = 0; k < nRuns; k++) {
-    for(int h = 0; h < 8256; h++) {
-      if (numHitAmpHist->GetBinContent(h+1,k+1) > 0.0 ){
+    for(UInt_t h = 0; h < nChannels; h++) {
+      if (numHitAmpHist->GetBinContent(h+1,k+1) > 0.0 && sumHitAmpHist->GetBinContent(h+1,k+1)/numHitAmpHist->GetBinContent(h+1,k+1) <32 && sumHitAmpHist->GetBinContent(h+1,k+1)/numHitAmpHist->GetBinContent(h+1,k+1)>0){
 
         avgHitAmpHist->SetBinContent(h+1,k+1,sumHitAmpHist->GetBinContent(h+1,k+1)/numHitAmpHist->GetBinContent(h+1,k+1));
 
@@ -91,7 +99,7 @@ int main(){
     double num = 0.0;
     double sum = 0.0;
     int counter = 1;
-    for(int h = 0; h < 8256; h++) { //8256
+    for(UInt_t h = 0; h < nChannels; h++) { //8256
       if (avgHitAmpHist->GetBinContent(h+1,k+1) > 0.0) {
         sum += avgHitAmpHist->GetBinContent(h+1,k+1);
         num += 1.0;
@@ -114,18 +122,23 @@ int main(){
       }
     }
   }
-
+  //TProfile  *Prof=ASICavgHitAmpHist->ProfileX();
+  TH1D *h1 = ASICavgHitAmpHist->ProjectionX();
+  cout << nRuns << endl;
+  float a = 1;
+  float scale=a/float(nRuns);
+  cout<<scale<<endl;
+  h1->Scale(scale);
   TString outputname;
-  outputname.Form("./output.root");
+  outputname.Form("./output_zoom.root");
+
   TFile *fout = new TFile(outputname,"RECREATE");
   sumHitAmpHist->SetDirectory(fout);
   numHitAmpHist->SetDirectory(fout);
   avgHitAmpHist->SetDirectory(fout);
   ASICavgHitAmpHist->SetDirectory(fout);
-  sumHitAmpHist->SaveAs("sumHitAmpHist.pdf");
-  numHitAmpHist->SaveAs("numHitAmpHist.pdf");
-  avgHitAmpHist->SaveAs("avgHitAmpHist.pdf");
-  ASICavgHitAmpHist->SaveAs("ASICavgHitAmpHist.pdf");
+  h1->SetDirectory(fout);
+
   std::cout << "Writing: " << outputname << std::endl;
 
   fout->Write();
