@@ -1,0 +1,29 @@
+Tue May 29 19:12:01 UTC 2018 BEGIN EXECUTION ./start-anatrees-ext-development.sh --sam_station uboone --sam_group uboone --sam_defname sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles --sam_project sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707 -g --init /cvmfs/uboone.opensciencegrid.org/products/setup_uboone.sh --max_files 100 --logdir /pnfs/uboone/scratch/users/sporzio/DqmCalibrationNtuples/ext/v1/Logs/anatrees
+Nodename: sporzio-7972847-0-fnpc6020.fnal.gov
+Sam user: sporzio
+Sam group: uboone
+Sam station: uboone
+Sam dataset definition: sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles
+Sam project name: sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707
+Recursive flag: 0
+Prestage fraction: 0
+Initializing ups and mrb.
+Sourcing /cvmfs/uboone.opensciencegrid.org/products/setup_uboone.sh
+Setting up old larsoft UPS area... /cvmfs/fermilab.opensciencegrid.org/products/larsoft/
+Setting up new larsoft UPS area... /cvmfs/larsoft.opensciencegrid.org/products/
+Setting up uboone UPS area... /cvmfs/uboone.opensciencegrid.org/products/
+PRODUCTS=/cvmfs/uboone.opensciencegrid.org/products:/cvmfs/larsoft.opensciencegrid.org/products:/cvmfs/fermilab.opensciencegrid.org/products/larsoft:/cvmfs/fermilab.opensciencegrid.org/products/common/db
+IFDHC_DIR=
+Setting up ifdhc, because jobsub did not set it up.
+IFDHC_DIR=/cvmfs/fermilab.opensciencegrid.org/products/common/db/../prd/ifdhc/v2_1_0/Linux64bit-2-6-2-12
+IFDH_OPT=
+Scratch directory: /storage/local/data1/condor/execute/dir_52047/no_xfer/working_dir.clGxxStGoL
+Input dataset contains 1000 files.
+Using already created limited dataset definition sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_limit_100.
+Will attempt to prestage 0 files.
+Starting project sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707.
+http://samwebgpvm03.fnal.gov:8480/sam/uboone/stations/uboone/projects/name/sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707
+Project successfully started.
+Project snapshot contains 100 files.
+ifdh cp -r  7972847_start /pnfs/uboone/scratch/users/sporzio/DqmCalibrationNtuples/ext/v1/Logs/anatrees/7972847_start
+Tue May 29 19:12:11 UTC 2018 ./start-anatrees-ext-development.sh COMPLETED with exit status 0

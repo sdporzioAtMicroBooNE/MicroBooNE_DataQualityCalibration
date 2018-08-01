@@ -1,0 +1,1143 @@
+000 (7972883.000.000) 05/29 14:12:46 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_29_0
+...
+028 (7972883.000.000) 05/29 14:12:46 Job ad information event triggered.
+JOB_GLIDEIN_Name = "$$(GLIDEIN_Name:Unknown)"
+JOB_Site = "$$(GLIDEIN_Site:Unknown)"
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "$$(GLIDEIN_Entry_Name:Unknown)"
+EventTime = "2018-05-29T14:12:46"
+TriggerEventTypeName = "ULOG_SUBMIT"
+SubmitHost = "<131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>"
+JOB_GLIDEIN_SiteWMS_Queue = "$$(GLIDEIN_SiteWMS_Queue:Unknown)"
+TriggerEventTypeNumber = 0
+JOB_GLIDEIN_Site = "$$(GLIDEIN_Site:Unknown)"
+LogNotes = "DAG Node: Jb_29_0"
+JOB_GLIDEIN_SiteWMS_JobId = "$$(GLIDEIN_SiteWMS_JobId:Unknown)"
+MyType = "SubmitEvent"
+JOB_GLIDEIN_ProcId = "$$(GLIDEIN_ProcId:Unknown)"
+JOB_GLIDEIN_Schedd = "$$(GLIDEIN_Schedd:Unknown)"
+JOB_GLIDEIN_ClusterId = "$$(GLIDEIN_ClusterId:Unknown)"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "$$(GLIDEIN_Factory:Unknown)"
+JOB_GLIDEIN_SiteWMS_Slot = "$$(GLIDEIN_SiteWMS_Slot:Unknown)"
+Subproc = 0
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "$$(GLIDEIN_SiteWMS:Unknown)"
+...
+001 (7972883.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>
+...
+028 (7972883.000.000) 05/29 14:12:50 Job ad information event triggered.
+JOB_GLIDEIN_Name = "Unknown"
+JOB_Site = "FermiGrid"
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:12:50"
+TriggerEventTypeName = "ULOG_EXECUTE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+TriggerEventTypeNumber = 1
+ExecuteHost = "<131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>"
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "ExecuteEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:12:59 Image size of job updated: 12
+	0  -  MemoryUsage of job (MB)
+	700  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:12:59 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 12
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:12:59"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 0
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 700
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:14:01 Image size of job updated: 111
+	111  -  MemoryUsage of job (MB)
+	114340  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:14:01 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 111
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:14:01"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 111
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 114340
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:15:02 Image size of job updated: 782
+	782  -  MemoryUsage of job (MB)
+	800804  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:15:02 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 782
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:15:02"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 782
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 800804
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:16:03 Image size of job updated: 1062
+	1062  -  MemoryUsage of job (MB)
+	1087656  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:16:03 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1062
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:16:03"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1062
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1087656
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:17:04 Image size of job updated: 1062
+	938  -  MemoryUsage of job (MB)
+	1087656  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:17:04 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1062
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:17:04"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 938
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1087656
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:18:05 Image size of job updated: 1387
+	1387  -  MemoryUsage of job (MB)
+	1421140  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:18:05 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1387
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:18:05"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1387
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1421140
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:19:06 Image size of job updated: 1387
+	911  -  MemoryUsage of job (MB)
+	1421140  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:19:06 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1387
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:19:06"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 911
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1421140
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:20:07 Image size of job updated: 1395
+	1395  -  MemoryUsage of job (MB)
+	1429388  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:20:07 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1395
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:20:07"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1395
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1429388
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:21:08 Image size of job updated: 1395
+	1097  -  MemoryUsage of job (MB)
+	1429388  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:21:08 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1395
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:21:08"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1097
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1429388
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:22:09 Image size of job updated: 1395
+	881  -  MemoryUsage of job (MB)
+	1429388  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:22:09 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1395
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:22:09"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 881
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1429388
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:23:11 Image size of job updated: 1398
+	1398  -  MemoryUsage of job (MB)
+	1432384  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:23:11 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1398
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:23:11"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1398
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1432384
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:24:12 Image size of job updated: 1398
+	880  -  MemoryUsage of job (MB)
+	1432384  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:24:12 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1398
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:24:12"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 880
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1432384
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:25:13 Image size of job updated: 1400
+	1400  -  MemoryUsage of job (MB)
+	1433856  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:25:13 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1400
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:25:13"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1400
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1433856
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:26:14 Image size of job updated: 1400
+	982  -  MemoryUsage of job (MB)
+	1433856  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:26:14 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1400
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:26:14"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 982
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1433856
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:27:15 Image size of job updated: 1402
+	1402  -  MemoryUsage of job (MB)
+	1435728  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:27:15 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1402
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:27:15"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1402
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1435728
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:28:16 Image size of job updated: 1402
+	967  -  MemoryUsage of job (MB)
+	1435728  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:28:16 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1402
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:28:16"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 967
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1435728
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:29:17 Image size of job updated: 1402
+	885  -  MemoryUsage of job (MB)
+	1435728  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:29:17 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1402
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:29:17"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 885
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1435728
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:30:18 Image size of job updated: 1407
+	1407  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:30:18 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:30:18"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1407
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:31:19 Image size of job updated: 1407
+	1034  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:31:19 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:31:19"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1034
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:32:21 Image size of job updated: 1407
+	883  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:32:21 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:32:21"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 883
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:33:22 Image size of job updated: 1407
+	1104  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:33:22 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:33:22"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1104
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:34:23 Image size of job updated: 1407
+	968  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:34:23 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:34:23"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 968
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:35:24 Image size of job updated: 1407
+	877  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:35:24 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:35:24"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 877
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:36:25 Image size of job updated: 1407
+	1102  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:36:25 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:36:25"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1102
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:37:26 Image size of job updated: 1407
+	885  -  MemoryUsage of job (MB)
+	1441556  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:37:26 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1407
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:37:26"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 885
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1441556
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:38:27 Image size of job updated: 1409
+	1409  -  MemoryUsage of job (MB)
+	1443180  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:38:27 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1409
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:38:27"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1409
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1443180
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:39:28 Image size of job updated: 1409
+	943  -  MemoryUsage of job (MB)
+	1443180  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:39:28 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1409
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:39:28"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 943
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1443180
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:40:29 Image size of job updated: 1409
+	1406  -  MemoryUsage of job (MB)
+	1443180  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:40:29 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1409
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:40:29"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1406
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1443180
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:41:31 Image size of job updated: 1409
+	1408  -  MemoryUsage of job (MB)
+	1443180  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:41:31 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1409
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:41:31"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1408
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1443180
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:42:32 Image size of job updated: 1411
+	1411  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:42:32 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:42:32"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 1411
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:43:33 Image size of job updated: 1411
+	583  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:43:33 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:43:33"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 583
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:44:34 Image size of job updated: 1411
+	612  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:44:34 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:44:34"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 612
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:45:35 Image size of job updated: 1411
+	633  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:45:35 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:45:35"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 633
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:47:37 Image size of job updated: 1411
+	643  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:47:37 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:47:37"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 643
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:52:42 Image size of job updated: 1411
+	58  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:52:42 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:52:42"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 58
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+006 (7972883.000.000) 05/29 14:52:53 Image size of job updated: 1411
+	0  -  MemoryUsage of job (MB)
+	1445160  -  ResidentSetSize of job (KB)
+...
+028 (7972883.000.000) 05/29 14:52:53 Job ad information event triggered.
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Name = "Unknown"
+Size = 1411
+Proc = 0
+JOB_GLIDEIN_Entry_Name = "Unknown"
+EventTime = "2018-05-29T14:52:53"
+TriggerEventTypeName = "ULOG_IMAGE_SIZE"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+MemoryUsage = 0
+TriggerEventTypeNumber = 6
+JOB_GLIDEIN_Site = "FermiGrid"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+MyType = "JobImageSizeEvent"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Schedd = "Unknown"
+JOB_GLIDEIN_ClusterId = "Unknown"
+Cluster = 7972883
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+Subproc = 0
+ResidentSetSize = 1445160
+EventTypeNumber = 28
+JOB_GLIDEIN_SiteWMS = "Unknown"
+...
+005 (7972883.000.000) 05/29 14:52:54 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:36:25, Sys 0 00:01:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:36:25, Sys 0 00:01:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1469385 35000000  35429982
+	   Memory (MB)          :        0     2000      2000
+...
+028 (7972883.000.000) 05/29 14:52:54 Job ad information event triggered.
+SentBytes = 24743.0
+JOB_GLIDEIN_Name = "Unknown"
+TerminatedNormally = true
+ReturnValue = 0
+JOB_GLIDEIN_ClusterId = "Unknown"
+JOB_GLIDEIN_SiteWMS = "Unknown"
+EventTypeNumber = 28
+Subproc = 0
+ReceivedBytes = 58988.0
+JOB_GLIDEIN_SiteWMS_Slot = "Unknown"
+MyType = "JobTerminatedEvent"
+TriggerEventTypeName = "ULOG_JOB_TERMINATED"
+TotalRemoteUsage = "Usr 0 00:36:25, Sys 0 00:01:16"
+JOB_Site = "FermiGrid"
+JOB_GLIDEIN_Site = "FermiGrid"
+Proc = 0
+EventTime = "2018-05-29T14:52:54"
+TotalSentBytes = 24743.0
+TriggerEventTypeNumber = 5
+TotalLocalUsage = "Usr 0 00:00:00, Sys 0 00:00:00"
+JOB_GLIDEIN_Schedd = "Unknown"
+Cluster = 7972883
+RunLocalUsage = "Usr 0 00:00:00, Sys 0 00:00:00"
+JOB_GLIDEIN_Entry_Name = "Unknown"
+JOB_GLIDEIN_ProcId = "Unknown"
+JOB_GLIDEIN_Factory = "Unknown"
+JOB_GLIDEIN_SiteWMS_Queue = "Unknown"
+RunRemoteUsage = "Usr 0 00:36:25, Sys 0 00:01:16"
+JOB_GLIDEIN_SiteWMS_JobId = "Unknown"
+TotalReceivedBytes = 58988.0
+...

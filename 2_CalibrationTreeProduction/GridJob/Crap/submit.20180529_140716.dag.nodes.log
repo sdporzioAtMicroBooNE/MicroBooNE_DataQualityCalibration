@@ -1,0 +1,2040 @@
+000 (7972847.000.000) 05/29 14:11:28 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_1_0
+...
+001 (7972847.000.000) 05/29 14:11:58 Job executing on host: <131.225.167.46:9618?addrs=131.225.167.46-9618&noUDP&sock=3462_38f7_3>
+...
+005 (7972847.000.000) 05/29 14:12:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2922  -  Run Bytes Sent By Job
+	18561  -  Run Bytes Received By Job
+	2922  -  Total Bytes Sent By Job
+	18561  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       51 35000000  35569269
+	   Memory (MB)          :        0     2000      2000
+...
+000 (7972854.000.000) 05/29 14:12:24 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_100_0
+...
+000 (7972855.000.000) 05/29 14:12:24 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_101_0
+...
+000 (7972856.000.000) 05/29 14:12:24 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_10_0
+...
+000 (7972857.000.000) 05/29 14:12:24 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_11_0
+...
+000 (7972858.000.000) 05/29 14:12:24 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_12_0
+...
+001 (7972854.000.000) 05/29 14:12:26 Job executing on host: <131.225.167.46:9618?addrs=131.225.167.46-9618&noUDP&sock=3462_38f7_3>
+...
+000 (7972859.000.000) 05/29 14:12:29 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_13_0
+...
+000 (7972860.000.000) 05/29 14:12:29 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_14_0
+...
+000 (7972861.000.000) 05/29 14:12:29 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_15_0
+...
+000 (7972862.000.000) 05/29 14:12:30 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_16_0
+...
+000 (7972863.000.000) 05/29 14:12:30 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_17_0
+...
+000 (7972867.000.000) 05/29 14:12:35 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_18_0
+...
+000 (7972868.000.000) 05/29 14:12:35 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_19_0
+...
+000 (7972869.000.000) 05/29 14:12:35 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_20_0
+...
+000 (7972870.000.000) 05/29 14:12:35 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_21_0
+...
+000 (7972871.000.000) 05/29 14:12:35 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_22_0
+...
+000 (7972874.000.000) 05/29 14:12:40 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_23_0
+...
+000 (7972875.000.000) 05/29 14:12:41 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_24_0
+...
+000 (7972876.000.000) 05/29 14:12:41 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_25_0
+...
+000 (7972877.000.000) 05/29 14:12:41 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_26_0
+...
+000 (7972878.000.000) 05/29 14:12:41 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_27_0
+...
+000 (7972882.000.000) 05/29 14:12:46 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_28_0
+...
+000 (7972883.000.000) 05/29 14:12:46 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_29_0
+...
+000 (7972884.000.000) 05/29 14:12:46 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_2_0
+...
+000 (7972885.000.000) 05/29 14:12:46 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_30_0
+...
+000 (7972886.000.000) 05/29 14:12:47 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_31_0
+...
+001 (7972867.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.186:9618?addrs=131.225.209.186-9618&noUDP&sock=1986_cf2d_3>
+...
+001 (7972869.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.105:9618?addrs=131.225.167.105-9618&noUDP&sock=2000_6980_3>
+...
+001 (7972862.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.139:9618?addrs=131.225.209.139-9618&noUDP&sock=2009_95db_3>
+...
+001 (7972861.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.216:9618?addrs=131.225.209.216-9618&noUDP&sock=1905_4001_3>
+...
+001 (7972856.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.52:9618?addrs=131.225.167.52-9618&noUDP&sock=3462_38f7_3>
+...
+001 (7972855.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.175:9618?addrs=131.225.167.175-9618&noUDP&sock=1971_8541_3>
+...
+001 (7972874.000.000) 05/29 14:12:50 Job executing on host: <131.225.208.6:9618?addrs=131.225.208.6-9618&noUDP&sock=1566_b966_22>
+...
+001 (7972857.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.181:9618?addrs=131.225.167.181-9618&noUDP&sock=20482_86e0_3>
+...
+001 (7972876.000.000) 05/29 14:12:50 Job executing on host: <131.225.208.206:9618?addrs=131.225.208.206-9618&noUDP&sock=1577_44f1_3>
+...
+001 (7972863.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.146:9618?addrs=131.225.209.146-9618&noUDP&sock=2021_d0fe_3>
+...
+001 (7972859.000.000) 05/29 14:12:50 Job executing on host: <131.225.166.15:9618?addrs=131.225.166.15-9618&noUDP&sock=1972_34da_3>
+...
+001 (7972868.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.210:9618?addrs=131.225.209.210-9618&noUDP&sock=3222_9a3c_3>
+...
+001 (7972860.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.65:9618?addrs=131.225.167.65-9618&noUDP&sock=3475_23b2_3>
+...
+001 (7972870.000.000) 05/29 14:12:50 Job executing on host: <131.225.208.1:9618?addrs=131.225.208.1-9618&noUDP&sock=2805_933e_3>
+...
+001 (7972871.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.61:9618?addrs=131.225.167.61-9618&noUDP&sock=3570_4d31_3>
+...
+001 (7972858.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.211:9618?addrs=131.225.209.211-9618&noUDP&sock=1874_fc92_3>
+...
+001 (7972884.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.212:9618?addrs=131.225.167.212-9618&noUDP&sock=3259_fb3d_3>
+...
+001 (7972883.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>
+...
+001 (7972875.000.000) 05/29 14:12:50 Job executing on host: <131.225.209.202:9618?addrs=131.225.209.202-9618&noUDP&sock=1882_7954_3>
+...
+001 (7972877.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>
+...
+001 (7972882.000.000) 05/29 14:12:50 Job executing on host: <131.225.208.6:9618?addrs=131.225.208.6-9618&noUDP&sock=1566_b966_22>
+...
+001 (7972878.000.000) 05/29 14:12:50 Job executing on host: <131.225.167.173:9618?addrs=131.225.167.173-9618&noUDP&sock=2095_9300_3>
+...
+001 (7972885.000.000) 05/29 14:12:51 Job executing on host: <131.225.167.173:9618?addrs=131.225.167.173-9618&noUDP&sock=2095_9300_3>
+...
+001 (7972886.000.000) 05/29 14:12:51 Job executing on host: <131.225.209.202:9618?addrs=131.225.209.202-9618&noUDP&sock=1882_7954_3>
+...
+000 (7972887.000.000) 05/29 14:12:52 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_32_0
+...
+000 (7972888.000.000) 05/29 14:12:52 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_33_0
+...
+000 (7972889.000.000) 05/29 14:12:52 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_34_0
+...
+000 (7972890.000.000) 05/29 14:12:52 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_35_0
+...
+000 (7972891.000.000) 05/29 14:12:52 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_36_0
+...
+000 (7972893.000.000) 05/29 14:12:57 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_37_0
+...
+000 (7972894.000.000) 05/29 14:12:57 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_38_0
+...
+000 (7972895.000.000) 05/29 14:12:57 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_39_0
+...
+000 (7972896.000.000) 05/29 14:12:58 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_3_0
+...
+000 (7972897.000.000) 05/29 14:12:58 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_40_0
+...
+000 (7972899.000.000) 05/29 14:13:03 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_41_0
+...
+000 (7972900.000.000) 05/29 14:13:03 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_42_0
+...
+000 (7972901.000.000) 05/29 14:13:03 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_43_0
+...
+000 (7972902.000.000) 05/29 14:13:03 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_44_0
+...
+000 (7972903.000.000) 05/29 14:13:03 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_45_0
+...
+000 (7972904.000.000) 05/29 14:13:09 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_46_0
+...
+000 (7972905.000.000) 05/29 14:13:10 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_47_0
+...
+000 (7972906.000.000) 05/29 14:13:10 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_48_0
+...
+000 (7972907.000.000) 05/29 14:13:10 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_49_0
+...
+000 (7972908.000.000) 05/29 14:13:10 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_4_0
+...
+000 (7972909.000.000) 05/29 14:13:15 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_50_0
+...
+000 (7972910.000.000) 05/29 14:13:15 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_51_0
+...
+000 (7972911.000.000) 05/29 14:13:15 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_52_0
+...
+000 (7972912.000.000) 05/29 14:13:15 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_53_0
+...
+000 (7972913.000.000) 05/29 14:13:15 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_54_0
+...
+001 (7972891.000.000) 05/29 14:13:17 Job executing on host: <131.225.166.198:9618?addrs=131.225.166.198-9618&noUDP&sock=2447_0456_3>
+...
+001 (7972890.000.000) 05/29 14:13:18 Job executing on host: <131.225.167.111:9618?addrs=131.225.167.111-9618&noUDP&sock=1894_b476_3>
+...
+001 (7972894.000.000) 05/29 14:13:18 Job executing on host: <131.225.167.37:9618?addrs=131.225.167.37-9618&noUDP&sock=2007_36aa_3>
+...
+001 (7972893.000.000) 05/29 14:13:18 Job executing on host: <131.225.166.229:9618?addrs=131.225.166.229-9618&noUDP&sock=2444_f58d_3>
+...
+001 (7972889.000.000) 05/29 14:13:18 Job executing on host: <131.225.209.200:9618?addrs=131.225.209.200-9618&noUDP&sock=52159_5067_3>
+...
+001 (7972887.000.000) 05/29 14:13:18 Job executing on host: <131.225.166.114:9618?addrs=131.225.166.114-9618&noUDP&sock=2851_2099_3>
+...
+001 (7972888.000.000) 05/29 14:13:18 Job executing on host: <131.225.208.192:9618?addrs=131.225.208.192-9618&noUDP&sock=1588_d07b_3>
+...
+000 (7972914.000.000) 05/29 14:13:21 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_55_0
+...
+000 (7972915.000.000) 05/29 14:13:21 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_56_0
+...
+000 (7972916.000.000) 05/29 14:13:21 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_57_0
+...
+000 (7972917.000.000) 05/29 14:13:21 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_58_0
+...
+000 (7972918.000.000) 05/29 14:13:21 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_59_0
+...
+000 (7972921.000.000) 05/29 14:13:26 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_5_0
+...
+000 (7972922.000.000) 05/29 14:13:26 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_60_0
+...
+000 (7972923.000.000) 05/29 14:13:26 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_61_0
+...
+000 (7972924.000.000) 05/29 14:13:27 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_62_0
+...
+000 (7972925.000.000) 05/29 14:13:27 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_63_0
+...
+000 (7972927.000.000) 05/29 14:13:32 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_64_0
+...
+000 (7972928.000.000) 05/29 14:13:32 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_65_0
+...
+000 (7972929.000.000) 05/29 14:13:32 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_66_0
+...
+000 (7972930.000.000) 05/29 14:13:32 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_67_0
+...
+000 (7972931.000.000) 05/29 14:13:32 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_68_0
+...
+000 (7972934.000.000) 05/29 14:13:37 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_69_0
+...
+000 (7972935.000.000) 05/29 14:13:38 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_6_0
+...
+000 (7972936.000.000) 05/29 14:13:38 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_70_0
+...
+000 (7972937.000.000) 05/29 14:13:38 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_71_0
+...
+000 (7972938.000.000) 05/29 14:13:38 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_72_0
+...
+001 (7972900.000.000) 05/29 14:13:42 Job executing on host: <131.225.166.215:9618?addrs=131.225.166.215-9618&noUDP&sock=2461_9ea9_3>
+...
+001 (7972895.000.000) 05/29 14:13:43 Job executing on host: <131.225.167.67:9618?addrs=131.225.167.67-9618&noUDP&sock=3474_7419_3>
+...
+001 (7972901.000.000) 05/29 14:13:43 Job executing on host: <131.225.208.205:9618?addrs=131.225.208.205-9618&noUDP&sock=21888_ed08_3>
+...
+001 (7972896.000.000) 05/29 14:13:43 Job executing on host: <131.225.209.223:9618?addrs=131.225.209.223-9618&noUDP&sock=1877_0b5a_3>
+...
+001 (7972899.000.000) 05/29 14:13:43 Job executing on host: <131.225.209.173:9618?addrs=131.225.209.173-9618&noUDP&sock=1934_2440_3>
+...
+001 (7972897.000.000) 05/29 14:13:43 Job executing on host: <131.225.209.202:9618?addrs=131.225.209.202-9618&noUDP&sock=1882_7954_3>
+...
+000 (7972939.000.000) 05/29 14:13:43 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_73_0
+...
+000 (7972940.000.000) 05/29 14:13:43 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_74_0
+...
+000 (7972941.000.000) 05/29 14:13:43 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_75_0
+...
+000 (7972942.000.000) 05/29 14:13:44 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_76_0
+...
+000 (7972943.000.000) 05/29 14:13:44 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_77_0
+...
+001 (7972902.000.000) 05/29 14:13:45 Job executing on host: <131.225.167.212:9618?addrs=131.225.167.212-9618&noUDP&sock=3259_fb3d_3>
+...
+000 (7972944.000.000) 05/29 14:13:49 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_78_0
+...
+000 (7972945.000.000) 05/29 14:13:49 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_79_0
+...
+000 (7972946.000.000) 05/29 14:13:49 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_7_0
+...
+000 (7972947.000.000) 05/29 14:13:49 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_80_0
+...
+000 (7972948.000.000) 05/29 14:13:49 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_81_0
+...
+000 (7972950.000.000) 05/29 14:13:54 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_82_0
+...
+000 (7972951.000.000) 05/29 14:13:55 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_83_0
+...
+000 (7972952.000.000) 05/29 14:13:55 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_84_0
+...
+000 (7972953.000.000) 05/29 14:13:55 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_85_0
+...
+000 (7972954.000.000) 05/29 14:13:55 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_86_0
+...
+000 (7972956.000.000) 05/29 14:14:00 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_87_0
+...
+000 (7972957.000.000) 05/29 14:14:00 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_88_0
+...
+000 (7972958.000.000) 05/29 14:14:00 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_89_0
+...
+000 (7972959.000.000) 05/29 14:14:00 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_8_0
+...
+000 (7972960.000.000) 05/29 14:14:01 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_90_0
+...
+000 (7972961.000.000) 05/29 14:14:06 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_91_0
+...
+000 (7972963.000.000) 05/29 14:14:06 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_92_0
+...
+000 (7972964.000.000) 05/29 14:14:06 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_93_0
+...
+000 (7972965.000.000) 05/29 14:14:06 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_94_0
+...
+000 (7972966.000.000) 05/29 14:14:06 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_95_0
+...
+001 (7972905.000.000) 05/29 14:14:08 Job executing on host: <131.225.209.152:9618?addrs=131.225.209.152-9618&noUDP&sock=1890_f615_3>
+...
+001 (7972914.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.210:9618?addrs=131.225.166.210-9618&noUDP&sock=2452_724f_3>
+...
+001 (7972915.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.216:9618?addrs=131.225.166.216-9618&noUDP&sock=320801_61a3_3>
+...
+001 (7972904.000.000) 05/29 14:14:08 Job executing on host: <131.225.167.174:9618?addrs=131.225.167.174-9618&noUDP&sock=2085_b70d_3>
+...
+001 (7972911.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.234:9618?addrs=131.225.166.234-9618&noUDP&sock=2463_fdda_3>
+...
+001 (7972912.000.000) 05/29 14:14:08 Job executing on host: <131.225.167.48:9618?addrs=131.225.167.48-9618&noUDP&sock=16970_9643_3>
+...
+001 (7972910.000.000) 05/29 14:14:08 Job executing on host: <131.225.208.206:9618?addrs=131.225.208.206-9618&noUDP&sock=1577_44f1_3>
+...
+001 (7972906.000.000) 05/29 14:14:08 Job executing on host: <131.225.209.146:9618?addrs=131.225.209.146-9618&noUDP&sock=2021_d0fe_3>
+...
+001 (7972907.000.000) 05/29 14:14:08 Job executing on host: <131.225.209.184:9618?addrs=131.225.209.184-9618&noUDP&sock=1877_0b5a_3>
+...
+001 (7972913.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.242:9618?addrs=131.225.166.242-9618&noUDP&sock=2475_38fd_3>
+...
+001 (7972908.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.195:9618?addrs=131.225.166.195-9618&noUDP&sock=421520_3cea_3>
+...
+001 (7972903.000.000) 05/29 14:14:08 Job executing on host: <131.225.166.15:9618?addrs=131.225.166.15-9618&noUDP&sock=1972_34da_3>
+...
+001 (7972909.000.000) 05/29 14:14:08 Job executing on host: <131.225.167.163:9618?addrs=131.225.167.163-9618&noUDP&sock=2263_cee9_3>
+...
+001 (7972916.000.000) 05/29 14:14:09 Job executing on host: <131.225.167.189:9618?addrs=131.225.167.189-9618&noUDP&sock=2117_aa15_3>
+...
+000 (7972969.000.000) 05/29 14:14:11 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_96_0
+...
+000 (7972970.000.000) 05/29 14:14:11 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_97_0
+...
+000 (7972971.000.000) 05/29 14:14:12 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_98_0
+...
+000 (7972972.000.000) 05/29 14:14:12 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_99_0
+...
+000 (7972973.000.000) 05/29 14:14:12 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_9_0
+...
+001 (7972918.000.000) 05/29 14:14:33 Job executing on host: <131.225.208.145:9618?addrs=131.225.208.145-9618&noUDP&sock=1571_275f_3>
+...
+001 (7972924.000.000) 05/29 14:14:33 Job executing on host: <131.225.209.210:9618?addrs=131.225.209.210-9618&noUDP&sock=3222_9a3c_3>
+...
+001 (7972917.000.000) 05/29 14:14:33 Job executing on host: <131.225.167.162:9618?addrs=131.225.167.162-9618&noUDP&sock=32258_e224_3>
+...
+001 (7972922.000.000) 05/29 14:14:33 Job executing on host: <131.225.167.46:9618?addrs=131.225.167.46-9618&noUDP&sock=3462_38f7_3>
+...
+001 (7972921.000.000) 05/29 14:14:33 Job executing on host: <131.225.167.38:9618?addrs=131.225.167.38-9618&noUDP&sock=3463_e88f_3>
+...
+001 (7972925.000.000) 05/29 14:14:35 Job executing on host: <131.225.209.224:9618?addrs=131.225.209.224-9618&noUDP&sock=2027_ee8f_3>
+...
+001 (7972923.000.000) 05/29 14:14:35 Job executing on host: <131.225.209.136:9618?addrs=131.225.209.136-9618&noUDP&sock=2010_4573_3>
+...
+001 (7972927.000.000) 05/29 14:14:35 Job executing on host: <131.225.167.110:9618?addrs=131.225.167.110-9618&noUDP&sock=49146_a58d_3>
+...
+001 (7972929.000.000) 05/29 14:14:36 Job executing on host: <131.225.209.136:9618?addrs=131.225.209.136-9618&noUDP&sock=2010_4573_3>
+...
+001 (7972928.000.000) 05/29 14:14:36 Job executing on host: <131.225.167.66:9618?addrs=131.225.167.66-9618&noUDP&sock=3563_8007_3>
+...
+001 (7972936.000.000) 05/29 14:14:59 Job executing on host: <131.225.209.215:9618?addrs=131.225.209.215-9618&noUDP&sock=1952_7cf5_3>
+...
+001 (7972940.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.104:9618?addrs=131.225.167.104-9618&noUDP&sock=1995_fb87_3>
+...
+001 (7972939.000.000) 05/29 14:14:59 Job executing on host: <131.225.209.152:9618?addrs=131.225.209.152-9618&noUDP&sock=1890_f615_3>
+...
+001 (7972937.000.000) 05/29 14:14:59 Job executing on host: <131.225.209.210:9618?addrs=131.225.209.210-9618&noUDP&sock=3222_9a3c_3>
+...
+001 (7972942.000.000) 05/29 14:14:59 Job executing on host: <131.225.166.215:9618?addrs=131.225.166.215-9618&noUDP&sock=2461_9ea9_3>
+...
+001 (7972930.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.162:9618?addrs=131.225.167.162-9618&noUDP&sock=32258_e224_3>
+...
+001 (7972935.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>
+...
+001 (7972943.000.000) 05/29 14:14:59 Job executing on host: <131.225.208.6:9618?addrs=131.225.208.6-9618&noUDP&sock=1566_b966_22>
+...
+001 (7972931.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.65:9618?addrs=131.225.167.65-9618&noUDP&sock=3475_23b2_3>
+...
+001 (7972941.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.47:9618?addrs=131.225.167.47-9618&noUDP&sock=1902_3138_3>
+...
+001 (7972944.000.000) 05/29 14:14:59 Job executing on host: <131.225.167.74:9618?addrs=131.225.167.74-9618&noUDP&sock=3605_4f02_3>
+...
+001 (7972945.000.000) 05/29 14:15:00 Job executing on host: <131.225.208.6:9618?addrs=131.225.208.6-9618&noUDP&sock=1566_b966_22>
+...
+001 (7972938.000.000) 05/29 14:15:00 Job executing on host: <131.225.209.208:9618?addrs=131.225.209.208-9618&noUDP&sock=2009_95db_3>
+...
+001 (7972934.000.000) 05/29 14:15:00 Job executing on host: <131.225.209.216:9618?addrs=131.225.209.216-9618&noUDP&sock=1905_4001_3>
+...
+001 (7972946.000.000) 05/29 14:15:24 Job executing on host: <131.225.209.226:9618?addrs=131.225.209.226-9618&noUDP&sock=1902_3138_3>
+...
+001 (7972947.000.000) 05/29 14:15:24 Job executing on host: <131.225.167.185:9618?addrs=131.225.167.185-9618&noUDP&sock=2098_a1c8_3>
+...
+001 (7972953.000.000) 05/29 14:15:24 Job executing on host: <131.225.166.205:9618?addrs=131.225.166.205-9618&noUDP&sock=2444_f58d_3>
+...
+001 (7972956.000.000) 05/29 14:15:24 Job executing on host: <131.225.166.218:9618?addrs=131.225.166.218-9618&noUDP&sock=2469_1b6b_3>
+...
+001 (7972948.000.000) 05/29 14:15:24 Job executing on host: <131.225.167.68:9618?addrs=131.225.167.68-9618&noUDP&sock=3435_b3e8_3>
+...
+001 (7972954.000.000) 05/29 14:15:24 Job executing on host: <131.225.166.232:9618?addrs=131.225.166.232-9618&noUDP&sock=2430_5b3a_3>
+...
+001 (7972959.000.000) 05/29 14:15:24 Job executing on host: <131.225.167.160:9618?addrs=131.225.167.160-9618&noUDP&sock=3488_0e6d_3>
+...
+001 (7972958.000.000) 05/29 14:15:24 Job executing on host: <131.225.167.168:9618?addrs=131.225.167.168-9618&noUDP&sock=2048_560c_3>
+...
+001 (7972950.000.000) 05/29 14:15:25 Job executing on host: <131.225.167.52:9618?addrs=131.225.167.52-9618&noUDP&sock=3462_38f7_3>
+...
+001 (7972957.000.000) 05/29 14:15:25 Job executing on host: <131.225.167.194:9618?addrs=131.225.167.194-9618&noUDP&sock=1974_940a_3>
+...
+001 (7972952.000.000) 05/29 14:15:25 Job executing on host: <131.225.209.192:9618?addrs=131.225.209.192-9618&noUDP&sock=1884_d884_3>
+...
+001 (7972951.000.000) 05/29 14:15:26 Job executing on host: <131.225.209.202:9618?addrs=131.225.209.202-9618&noUDP&sock=1882_7954_3>
+...
+001 (7972960.000.000) 05/29 14:15:26 Job executing on host: <131.225.209.123:9618?addrs=131.225.209.123-9618&noUDP&sock=1931_1578_3>
+...
+001 (7972961.000.000) 05/29 14:15:26 Job executing on host: <131.225.209.123:9618?addrs=131.225.209.123-9618&noUDP&sock=1931_1578_3>
+...
+001 (7972963.000.000) 05/29 14:15:26 Job executing on host: <131.225.209.123:9618?addrs=131.225.209.123-9618&noUDP&sock=1931_1578_3>
+...
+001 (7972965.000.000) 05/29 14:15:51 Job executing on host: <131.225.166.118:9618?addrs=131.225.166.118-9618&noUDP&sock=3006_71c7_3>
+...
+001 (7972964.000.000) 05/29 14:15:51 Job executing on host: <131.225.166.114:9618?addrs=131.225.166.114-9618&noUDP&sock=2851_2099_3>
+...
+001 (7972969.000.000) 05/29 14:15:51 Job executing on host: <131.225.167.162:9618?addrs=131.225.167.162-9618&noUDP&sock=32258_e224_3>
+...
+001 (7972970.000.000) 05/29 14:15:51 Job executing on host: <131.225.167.182:9618?addrs=131.225.167.182-9618&noUDP&sock=1973_e472_3>
+...
+001 (7972966.000.000) 05/29 14:15:51 Job executing on host: <131.225.167.67:9618?addrs=131.225.167.67-9618&noUDP&sock=3474_7419_3>
+...
+001 (7972973.000.000) 05/29 14:15:54 Job executing on host: <131.225.209.158:9618?addrs=131.225.209.158-9618&noUDP&sock=1980_b19c_3>
+...
+001 (7972972.000.000) 05/29 14:15:54 Job executing on host: <131.225.209.134:9618?addrs=131.225.209.134-9618&noUDP&sock=2088_c5d6_3>
+...
+001 (7972971.000.000) 05/29 14:15:54 Job executing on host: <131.225.209.136:9618?addrs=131.225.209.136-9618&noUDP&sock=2010_4573_3>
+...
+005 (7972905.000.000) 05/29 14:26:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:10:12, Sys 0 00:00:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:10:12, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1234044 35000000  68523822
+	   Memory (MB)          :       66     2000      2000
+...
+005 (7972909.000.000) 05/29 14:28:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:11:31, Sys 0 00:00:40  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:11:31, Sys 0 00:00:40  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1187469 35000000  36029514
+	   Memory (MB)          :       70     2000      2000
+...
+005 (7972925.000.000) 05/29 14:29:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:10:52, Sys 0 00:00:23  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:10:52, Sys 0 00:00:23  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1275684 35000000  69579764
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972854.000.000) 05/29 14:34:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:17:12, Sys 0 00:00:41  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:17:12, Sys 0 00:00:41  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58989  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58989  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1263286 35000000  35569269
+	   Memory (MB)          :       14     2000      2000
+...
+005 (7972868.000.000) 05/29 14:35:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:20:44, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:20:44, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1431236 35000000  69168030
+	   Memory (MB)          :       12     2000      2000
+...
+005 (7972914.000.000) 05/29 14:37:06 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:40, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:40, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24769  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24769  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1338092 35000000  73029939
+	   Memory (MB)          :       12     2000      2000
+...
+005 (7972899.000.000) 05/29 14:37:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:18:00, Sys 0 00:00:23  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:18:00, Sys 0 00:00:23  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1398252 35000000  61134510
+	   Memory (MB)          :       72     2000      2000
+...
+005 (7972884.000.000) 05/29 14:37:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:20:31, Sys 0 00:00:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:20:31, Sys 0 00:00:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24727  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24727  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1473263 35000000 109048780
+	   Memory (MB)          :        4     2000      2000
+...
+005 (7972973.000.000) 05/29 14:38:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:52, Sys 0 00:00:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:52, Sys 0 00:00:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24735  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24735  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1352327 35000000  69067100
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972927.000.000) 05/29 14:39:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:13:23, Sys 0 00:00:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:13:23, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1290757 35000000  65782522
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972937.000.000) 05/29 14:40:25 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:20:36, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:20:36, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1443496 35000000  69192426
+	   Memory (MB)          :       62     2000      2000
+...
+005 (7972945.000.000) 05/29 14:40:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:07, Sys 0 00:00:43  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:07, Sys 0 00:00:43  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1290502 35000000  35514460
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972951.000.000) 05/29 14:40:37 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:31, Sys 0 00:00:22  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:31, Sys 0 00:00:22  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24719  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24719  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1349113 35000000  68217460
+	   Memory (MB)          :        5     2000      2000
+...
+005 (7972902.000.000) 05/29 14:40:39 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:22:22, Sys 0 00:00:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:22:22, Sys 0 00:00:21  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24741  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24741  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1489643 35000000 109129912
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972934.000.000) 05/29 14:40:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:15:54, Sys 0 00:00:23  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:15:54, Sys 0 00:00:23  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1454825 35000000  65681898
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972961.000.000) 05/29 14:41:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:13:22, Sys 0 00:00:23  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:13:22, Sys 0 00:00:23  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1287561 35000000  68791924
+	   Memory (MB)          :       72     2000      2000
+...
+005 (7972887.000.000) 05/29 14:41:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:25:49, Sys 0 00:00:42  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:25:49, Sys 0 00:00:42  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24714  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24714  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1399263 35000000  35242158
+	   Memory (MB)          :       60     2000      2000
+...
+005 (7972940.000.000) 05/29 14:41:51 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:45, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:45, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24698  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24698  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1583452 35000000 107559526
+	   Memory (MB)          :        0     2000      2000
+...
+005 (7972931.000.000) 05/29 14:42:05 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:23:28, Sys 0 00:01:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:23:28, Sys 0 00:01:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24719  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24719  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1320754 35000000  35250705
+	   Memory (MB)          :       62     2000      2000
+...
+005 (7972946.000.000) 05/29 14:42:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:23:26, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:23:26, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24735  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24735  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1516389 35000000  68952800
+	   Memory (MB)          :      199     2000      2000
+...
+005 (7972921.000.000) 05/29 14:43:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:22:59, Sys 0 00:00:48  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:22:59, Sys 0 00:00:48  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24735  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24735  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1320661 35000000  67044736
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972855.000.000) 05/29 14:45:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:25:55, Sys 0 00:00:53  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:25:55, Sys 0 00:00:53  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58989  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58989  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1382704 35000000  65593414
+	   Memory (MB)          :       62     2000      2000
+...
+005 (7972929.000.000) 05/29 14:45:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:17:49, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:17:49, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1461443 35000000  68989122
+	   Memory (MB)          :       41     2000      2000
+...
+005 (7972867.000.000) 05/29 14:45:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:07, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:07, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24695  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24695  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1602795 35000000  69272130
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972907.000.000) 05/29 14:46:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:24:03, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:24:03, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1547422 35000000  63413324
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972938.000.000) 05/29 14:46:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:52, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:52, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1601432 35000000  67071836
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972861.000.000) 05/29 14:46:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:23:08, Sys 0 00:00:26  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:23:08, Sys 0 00:00:26  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1628939 35000000  65690234
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972913.000.000) 05/29 14:46:30 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:27:15, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:27:15, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24748  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24748  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1430186 35000000  72910689
+	   Memory (MB)          :      619     2000      2000
+...
+005 (7972890.000.000) 05/29 14:46:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:31:12, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:31:12, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1629202 35000000  69511868
+	   Memory (MB)          :       47     2000      2000
+...
+005 (7972939.000.000) 05/29 14:46:52 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:06, Sys 0 00:00:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:06, Sys 0 00:00:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1629258 35000000  68624342
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972903.000.000) 05/29 14:47:22 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:27:04, Sys 0 00:00:55  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:27:04, Sys 0 00:00:55  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1374616 35000000  35279744
+	   Memory (MB)          :       14     2000      2000
+...
+005 (7972923.000.000) 05/29 14:47:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:18:50, Sys 0 00:00:26  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:18:50, Sys 0 00:00:26  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1505055 35000000  68980248
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972936.000.000) 05/29 14:47:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:27:04, Sys 0 00:00:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:27:04, Sys 0 00:00:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1607850 35000000  69390872
+	   Memory (MB)          :        3     2000      2000
+...
+005 (7972971.000.000) 05/29 14:47:54 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:20:15, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:20:15, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1539589 35000000  68957670
+	   Memory (MB)          :        4     2000      2000
+...
+005 (7972875.000.000) 05/29 14:47:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:25:06, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:25:06, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1581368 35000000  68082498
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972924.000.000) 05/29 14:49:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:30:16, Sys 0 00:00:34  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:30:16, Sys 0 00:00:34  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1645700 35000000  69185146
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972858.000.000) 05/29 14:49:59 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:26:28, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:26:28, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1559225 35000000  65306680
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972963.000.000) 05/29 14:51:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:25:39, Sys 0 00:00:31  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:25:39, Sys 0 00:00:31  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1574563 35000000  68790414
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972900.000.000) 05/29 14:52:22 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:31:24, Sys 0 00:00:35  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:31:24, Sys 0 00:00:35  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24772  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24772  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1451814 35000000  72780989
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972922.000.000) 05/29 14:52:51 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:32:50, Sys 0 00:01:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:32:50, Sys 0 00:01:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1438615 35000000  35617502
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972883.000.000) 05/29 14:52:54 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:36:25, Sys 0 00:01:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:36:25, Sys 0 00:01:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1469385 35000000  35429982
+	   Memory (MB)          :        0     2000      2000
+...
+005 (7972877.000.000) 05/29 14:52:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:35:52, Sys 0 00:01:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:35:52, Sys 0 00:01:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1507195 35000000  35430005
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972862.000.000) 05/29 14:52:59 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:41, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:41, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1637511 35000000  69125656
+	   Memory (MB)          :        0     2000      2000
+...
+005 (7972941.000.000) 05/29 14:53:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:31:05, Sys 0 00:00:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:31:05, Sys 0 00:00:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1590615 35000000  68779508
+	   Memory (MB)          :       20     2000      2000
+...
+005 (7972960.000.000) 05/29 14:53:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:20, Sys 0 00:00:28  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:20, Sys 0 00:00:28  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1616498 35000000  68822522
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972912.000.000) 05/29 14:53:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:24:38, Sys 0 00:00:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:24:38, Sys 0 00:00:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1518437 35000000  65709490
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972910.000.000) 05/29 14:54:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:30:55, Sys 0 00:00:50  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:30:55, Sys 0 00:00:50  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1419147 35000000  42742600
+	   Memory (MB)          :       47     2000      2000
+...
+005 (7972897.000.000) 05/29 14:54:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:09, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:09, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24698  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24698  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1672544 35000000  68076404
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972965.000.000) 05/29 14:54:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:36:16, Sys 0 00:01:11  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:36:16, Sys 0 00:01:11  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24719  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24719  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1544121 35000000  51236355
+	   Memory (MB)          :       62     2000      2000
+...
+005 (7972918.000.000) 05/29 14:54:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:37:55, Sys 0 00:00:48  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:37:55, Sys 0 00:00:48  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1523237 35000000  35447108
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972908.000.000) 05/29 14:55:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:14, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:14, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24761  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24761  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1467880 35000000  72428933
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972870.000.000) 05/29 14:56:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:33:00, Sys 0 00:00:49  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:33:00, Sys 0 00:00:49  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1445391 35000000  42831205
+	   Memory (MB)          :       70     2000      2000
+...
+005 (7972891.000.000) 05/29 14:56:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:08, Sys 0 00:00:31  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:08, Sys 0 00:00:31  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24772  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24772  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1445690 35000000  70432957
+	   Memory (MB)          :       14     2000      2000
+...
+005 (7972860.000.000) 05/29 14:56:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:38:00, Sys 0 00:01:30  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:38:00, Sys 0 00:01:30  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1494855 35000000  35306368
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972917.000.000) 05/29 14:56:17 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:33:41, Sys 0 00:01:18  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:33:41, Sys 0 00:01:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1437817 35000000  35625116
+	   Memory (MB)          :      110     2000      2000
+...
+005 (7972943.000.000) 05/29 14:56:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:38:01, Sys 0 00:00:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:38:01, Sys 0 00:00:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1510702 35000000  35514656
+	   Memory (MB)          :       55     2000      2000
+...
+005 (7972947.000.000) 05/29 14:56:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:15, Sys 0 00:00:48  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:15, Sys 0 00:00:48  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1437244 35000000  35481310
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972889.000.000) 05/29 14:57:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:31:48, Sys 0 00:00:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:31:48, Sys 0 00:00:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1723328 35000000  63499422
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972863.000.000) 05/29 14:57:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:52, Sys 0 00:00:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:52, Sys 0 00:00:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1653008 35000000  69497552
+	   Memory (MB)          :       60     2000      2000
+...
+005 (7972906.000.000) 05/29 14:57:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:30:50, Sys 0 00:00:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:30:50, Sys 0 00:00:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1670182 35000000  69502054
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972944.000.000) 05/29 14:57:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:33:49, Sys 0 00:01:10  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:33:49, Sys 0 00:01:10  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1479244 35000000  67437654
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972869.000.000) 05/29 14:57:40 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:33:07, Sys 0 00:00:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:33:07, Sys 0 00:00:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1650501 35000000 109538314
+	   Memory (MB)          :       45     2000      2000
+...
+005 (7972859.000.000) 05/29 14:58:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:40:23, Sys 0 00:01:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:40:23, Sys 0 00:01:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1538636 35000000  35317199
+	   Memory (MB)          :       92     2000      2000
+...
+005 (7972964.000.000) 05/29 14:58:42 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:40:04, Sys 0 00:00:56  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:40:04, Sys 0 00:00:56  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24738  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24738  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1573687 35000000  35234048
+	   Memory (MB)          :       61     2000      2000
+...
+005 (7972916.000.000) 05/29 14:59:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:01, Sys 0 00:01:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:01, Sys 0 00:01:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1413028 35000000  69303766
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972886.000.000) 05/29 14:59:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:29:36, Sys 0 00:00:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:29:36, Sys 0 00:00:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1646324 35000000  68075084
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972857.000.000) 05/29 14:59:37 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:42:11, Sys 0 00:01:14  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:42:11, Sys 0 00:01:14  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24732  -  Run Bytes Sent By Job
+	58983  -  Run Bytes Received By Job
+	24732  -  Total Bytes Sent By Job
+	58983  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1575028 35000000  35686837
+	   Memory (MB)          :      112     2000      2000
+...
+005 (7972871.000.000) 05/29 14:59:50 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:34:31, Sys 0 00:00:58  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:34:31, Sys 0 00:00:58  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1471131 35000000  35589527
+	   Memory (MB)          :        4     2000      2000
+...
+005 (7972935.000.000) 05/29 15:00:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:40:06, Sys 0 00:01:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:40:06, Sys 0 00:01:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24732  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24732  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1549137 35000000  35417630
+	   Memory (MB)          :      102     2000      2000
+...
+005 (7972972.000.000) 05/29 15:00:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:30:57, Sys 0 00:00:35  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:30:57, Sys 0 00:00:35  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1682257 35000000  65174502
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972896.000.000) 05/29 15:00:57 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:26:52, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:26:52, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24732  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24732  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1570526 35000000  68709314
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972882.000.000) 05/29 15:01:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:42:51, Sys 0 00:00:56  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:42:51, Sys 0 00:00:56  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1571006 35000000  35551312
+	   Memory (MB)          :       33     2000      2000
+...
+005 (7972874.000.000) 05/29 15:01:37 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:44:20, Sys 0 00:00:58  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:44:20, Sys 0 00:00:58  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1609980 35000000  35551480
+	   Memory (MB)          :      665     2000      2000
+...
+005 (7972893.000.000) 05/29 15:01:38 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:42:32, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:42:32, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24769  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24769  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1642648 35000000  72576337
+	   Memory (MB)          :      115     2000      2000
+...
+005 (7972876.000.000) 05/29 15:02:23 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:34:56, Sys 0 00:00:54  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:34:56, Sys 0 00:00:54  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1514280 35000000  42578620
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972915.000.000) 05/29 15:03:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:28, Sys 0 00:00:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:28, Sys 0 00:00:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24772  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24772  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1638613 35000000  72832286
+	   Memory (MB)          :      101     2000      2000
+...
+005 (7972885.000.000) 05/29 15:03:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:40:12, Sys 0 00:01:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:40:12, Sys 0 00:01:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1550712 35000000  35276564
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972888.000.000) 05/29 15:03:37 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:28, Sys 0 00:00:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:28, Sys 0 00:00:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1610256 35000000  51051024
+	   Memory (MB)          :       64     2000      2000
+...
+005 (7972959.000.000) 05/29 15:04:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:35:48, Sys 0 00:01:08  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:35:48, Sys 0 00:01:08  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24735  -  Run Bytes Sent By Job
+	58982  -  Run Bytes Received By Job
+	24735  -  Total Bytes Sent By Job
+	58982  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1496510 35000000  35150231
+	   Memory (MB)          :      171     2000      2000
+...
+005 (7972930.000.000) 05/29 15:05:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:42:47, Sys 0 00:01:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:42:47, Sys 0 00:01:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1571213 35000000  35642928
+	   Memory (MB)          :        0     2000      2000
+...
+005 (7972942.000.000) 05/29 15:06:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:59, Sys 0 00:00:38  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:59, Sys 0 00:00:38  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24769  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24769  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1647997 35000000  72771952
+	   Memory (MB)          :       68     2000      2000
+...
+005 (7972956.000.000) 05/29 15:06:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:40:48, Sys 0 00:00:30  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:40:48, Sys 0 00:00:30  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24772  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24772  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1596250 35000000  70770145
+	   Memory (MB)          :       33     2000      2000
+...
+005 (7972895.000.000) 05/29 15:07:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:44:39, Sys 0 00:01:19  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:44:39, Sys 0 00:01:19  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1591227 35000000  35479754
+	   Memory (MB)          :        0     2000      2000
+...
+005 (7972970.000.000) 05/29 15:08:06 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:03, Sys 0 00:01:12  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:03, Sys 0 00:01:12  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1627151 35000000  66487228
+	   Memory (MB)          :        2     2000      2000
+...
+005 (7972957.000.000) 05/29 15:08:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:42:43, Sys 0 00:01:15  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:42:43, Sys 0 00:01:15  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1585399 35000000  69084600
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972969.000.000) 05/29 15:09:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:45:15, Sys 0 00:01:22  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:45:15, Sys 0 00:01:22  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1591624 35000000  35655836
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972948.000.000) 05/29 15:11:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:46, Sys 0 00:01:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:46, Sys 0 00:01:21  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1591255 35000000  35396825
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972953.000.000) 05/29 15:11:16 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:34:08, Sys 0 00:00:31  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:34:08, Sys 0 00:00:31  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24748  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24748  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1526391 35000000  66041256
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972901.000.000) 05/29 15:13:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:50:52, Sys 0 00:01:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:50:52, Sys 0 00:01:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1615675 35000000  51441027
+	   Memory (MB)          :       59     2000      2000
+...
+005 (7972904.000.000) 05/29 15:14:33 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:51:10, Sys 0 00:01:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:51:10, Sys 0 00:01:29  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1650941 35000000  35119687
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972911.000.000) 05/29 15:14:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:48:43, Sys 0 00:00:36  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:48:43, Sys 0 00:00:36  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24772  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24772  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1716772 35000000  72406364
+	   Memory (MB)          :       58     2000      2000
+...
+005 (7972958.000.000) 05/29 15:14:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:50:13, Sys 0 00:01:26  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:50:13, Sys 0 00:01:26  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1664878 35000000  35080430
+	   Memory (MB)          :       73     2000      2000
+...
+005 (7972952.000.000) 05/29 15:16:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:23:31, Sys 0 00:00:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:23:31, Sys 0 00:00:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1544652 35000000  64784240
+	   Memory (MB)          :        1     2000      2000
+...
+005 (7972966.000.000) 05/29 15:19:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:54:14, Sys 0 00:01:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:54:14, Sys 0 00:01:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1690736 35000000  35512517
+	   Memory (MB)          :      102     2000      2000
+...
+005 (7972928.000.000) 05/29 15:21:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:59:00, Sys 0 00:02:07  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:59:00, Sys 0 00:02:07  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24746  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24746  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1856982 35000000  69805952
+	   Memory (MB)          :       63     2000      2000
+...
+005 (7972954.000.000) 05/29 15:25:52 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:59:14, Sys 0 00:00:41  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:59:14, Sys 0 00:00:41  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24748  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24748  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1862121 35000000  68198400
+	   Memory (MB)          :        8     2000      2000
+...
+005 (7972856.000.000) 05/29 15:26:04 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:47:53, Sys 0 00:01:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:47:53, Sys 0 00:01:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24735  -  Run Bytes Sent By Job
+	58983  -  Run Bytes Received By Job
+	24735  -  Total Bytes Sent By Job
+	58983  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1613942 35000000  69224478
+	   Memory (MB)          :      109     2000      2000
+...
+005 (7972894.000.000) 05/29 15:28:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:09:35, Sys 0 00:00:36  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:09:35, Sys 0 00:00:36  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1444619 35000000 108793538
+	   Memory (MB)          :      109     2000      2000
+...
+005 (7972950.000.000) 05/29 15:28:04 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:48:21, Sys 0 00:01:38  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:48:21, Sys 0 00:01:38  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24722  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24722  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1695753 35000000  69295128
+	   Memory (MB)          :       73     2000      2000
+...
+005 (7972878.000.000) 05/29 15:29:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:07:27, Sys 0 00:01:46  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:07:27, Sys 0 00:01:46  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	24743  -  Run Bytes Sent By Job
+	58988  -  Run Bytes Received By Job
+	24743  -  Total Bytes Sent By Job
+	58988  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :  1816939 35000000  35258429
+	   Memory (MB)          :        2     2000      2000
+...
+000 (7973122.000.000) 05/29 15:29:37 Job submitted from host: <131.225.240.41:9615?addrs=131.225.240.41-9615&noUDP&sock=9488_a3ef_3>
+    DAG Node: Jb_102_0
+...
+001 (7973122.000.000) 05/29 15:58:45 Job executing on host: <131.225.167.51:9618?addrs=131.225.167.51-9618&noUDP&sock=3480_91ab_3>
+...
+005 (7973122.000.000) 05/29 15:59:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2260  -  Run Bytes Sent By Job
+	12763  -  Run Bytes Received By Job
+	2260  -  Total Bytes Sent By Job
+	12763  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       46 35000000  35736832
+	   Memory (MB)          :        0     2000      2000
+...

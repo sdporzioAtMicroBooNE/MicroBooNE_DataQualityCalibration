@@ -1,0 +1,27 @@
+Tue May 29 19:12:52 UTC 2018 BEGIN WRAPFILE COPY-IN /storage/local/data1/condor/execute/dir_52715/jsb_tmp/ifdh.sh cp -D /pnfs/uboone/scratch/users/sporzio/Work/DqmCalibrationNtuples/ext/v1/anatrees/work7571e840a3536fa12b6fe00eaea916af.tar /storage/local/data1/condor/execute/dir_52715/no_xfer/0/TRANSFERRED_INPUT_FILES/
+Tue May 29 19:12:53 UTC 2018 FINISHED WRAPFILE COPY-IN /storage/local/data1/condor/execute/dir_52715/jsb_tmp/ifdh.sh cp -D /pnfs/uboone/scratch/users/sporzio/Work/DqmCalibrationNtuples/ext/v1/anatrees/work7571e840a3536fa12b6fe00eaea916af.tar /storage/local/data1/condor/execute/dir_52715/no_xfer/0/TRANSFERRED_INPUT_FILES/
+Tue May 29 19:12:54 UTC 2018 BEGIN EXECUTION ./anatrees-ext-development.sh --nfile 1 --group uboone -g -c wrapper.fcl --ups uboonecode -r development -b debug --localtar /pnfs/uboone/resilient/users/sporzio/GridFiles/uboonecode_v06_26_01_17.tar --workdir /pnfs/uboone/scratch/users/sporzio/Work/DqmCalibrationNtuples/ext/v1/anatrees --outdir /pnfs/uboone/scratch/users/sporzio/DqmCalibrationNtuples/ext/v1/Samples/anatrees --logdir /pnfs/uboone/scratch/users/sporzio/DqmCalibrationNtuples/ext/v1/Logs/anatrees --sam_defname sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles --sam_project sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707 -n 1000000 --end-script ./merge_dqm_hists.sh --init /cvmfs/uboone.opensciencegrid.org/products/setup_uboone.sh --validate --declare --maintain_parentage --process 99
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for UbooneOpticalFilter.h
+   requested to autoload type uboone::UbooneOpticalFilter
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for SparseRawDigit.h
+   requested to autoload type raw::SparseRawDigit
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for SparseRawDigit.h
+   requested to autoload type lar::sparse_vector
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for UbooneOpticalFilter.h
+   requested to autoload type uboone::UbooneOpticalFilter
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for SparseRawDigit.h
+   requested to autoload type raw::SparseRawDigit
+Error in cling::AutoloadingVisitor::InsertIntoAutoloadingState:
+   Missing FileEntry for SparseRawDigit.h
+   requested to autoload type lar::sparse_vector
+
+Requested DB, "RootFileDB" of type, "tkeyvfs", not present in file: "XYZcorrection.root"
+Either this is not an art/ROOT file, it is a corrupt art/ROOT file,
+or it is an art/ROOT file produced with a version older than v1_00_12.
+./anatrees-ext-development.sh: line 1: cd: /home/sporzio: No such file or directory
+Tue May 29 19:45:13 UTC 2018 ./anatrees-ext-development.sh COMPLETED with exit status 0
