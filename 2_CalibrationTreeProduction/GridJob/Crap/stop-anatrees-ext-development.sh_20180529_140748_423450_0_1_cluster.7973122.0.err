@@ -1,3 +1,0 @@
-Tue May 29 20:58:50 UTC 2018 BEGIN EXECUTION ./stop-anatrees-ext-development.sh --sam_station uboone --sam_project sporzio_prod_extbnb_swizzle_inclusive_v5_17-05-18_1kfiles_20180529140707 -g --logdir /pnfs/uboone/scratch/users/sporzio/DqmCalibrationNtuples/ext/v1/Logs/anatrees --init /cvmfs/uboone.opensciencegrid.org/products/setup_uboone.sh
-./stop-anatrees-ext-development.sh: line 1: cd: /home/sporzio: No such file or directory
-Tue May 29 20:59:06 UTC 2018 ./stop-anatrees-ext-development.sh COMPLETED with exit status 0

@@ -1,1 +1,0 @@
-Just put this module in your version of larsoft, and build it
