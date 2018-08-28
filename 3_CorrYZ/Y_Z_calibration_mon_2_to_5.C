@@ -31,7 +31,7 @@ void Y_Z_calibration_mon_2_to_5::Loop()
 
 	ifstream infile2;
   printf("Opening runs file.\n");
-	infile2.open("/uboone/app/users/sporzio/Calibration/Input_GoodRunsList/fakeGoodRuns_ALL_Run3.txt");
+	infile2.open("/uboone/app/users/sporzio/Calibration/Input_GoodRunsList/good_runs_run3_both.txt");
   printf("Runs file opened.\n");
 	std::vector<int> good_run_vec;
 	int good_runs;
@@ -79,7 +79,7 @@ void Y_Z_calibration_mon_2_to_5::Loop()
 		dq_dx_frac_error[i].resize(48);
 	}
 
-	TFile *file = new TFile(Form("/uboone/data/users/sporzio/Calibration/Input_Intermediate/correctionFactors_YZ_plane%d.root",plane_number),"recreate");
+	TFile *file = new TFile(Form("/uboone/app/users/sporzio/Calibration/Output/YZ/correctionFactors_YZ_plane%d_part2.root",plane_number),"recreate");
 	int n_cross=0;
 	if (fChain == 0) return;
 	Long64_t nentries = fChain->GetEntriesFast();
@@ -103,7 +103,7 @@ void Y_Z_calibration_mon_2_to_5::Loop()
 		int month_date=year_month_date%10000;
 		int month=month_date/100;
 
-		if(month==10 || month==11 || month==12){
+		if(month==1 || month==2 || month==3){
 
 			for(int i=0; i<cross_trks; ++i){
 				n_cross++;

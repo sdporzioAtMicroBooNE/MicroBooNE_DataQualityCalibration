@@ -86,11 +86,11 @@ Global_median_with_XYZ_corrections::Global_median_with_XYZ_corrections(TTree *tr
 // if parameter tree is not specified (or zero), connect the file
 // used to generate this class and read the Tree.
    if (tree == 0) {
-      TFile *f = (TFile*)gROOT->GetListOfFiles()->FindObject("/uboone/data/users/vmeddage/final_run_1_calibration.root");
+      TFile *f = (TFile*)gROOT->GetListOfFiles()->FindObject("/uboone/data/users/sporzio/XYZ_Calibration/XyzCorrection_Run3_13696to15500.root");
       if (!f || !f->IsOpen()) {
-         f = new TFile("/uboone/data/users/vmeddage/final_run_1_calibration.root");
+         f = new TFile("/uboone/data/users/sporzio/XYZ_Calibration/XyzCorrection_Run3_13696to15500.root");
       }
-      TDirectory * dir = (TDirectory*)f->Get("/uboone/data/users/vmeddage/final_run_1_calibration.root:/XYZcorrection");
+      TDirectory * dir = (TDirectory*)f->Get("/uboone/data/users/sporzio/XYZ_Calibration/XyzCorrection_Run3_13696to15500.root:/XYZcorrection");
       dir->GetObject("Event",tree);
 
    }

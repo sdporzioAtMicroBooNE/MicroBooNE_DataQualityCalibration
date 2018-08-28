@@ -31,7 +31,7 @@ void Global_median_with_XYZ_corrections::Loop()
  const double y_bin_size=5.0; 
  const double z_bin_size=5.0; 
  ifstream infile3;
- infile3.open("../GoodRunsList/goodRuns_Run3.txt");
+ infile3.open("/uboone/app/users/sporzio/Calibration/Input_GoodRunsList/good_runs_run3_both.txt");
  std::vector<int> good_run_vec;
  int good_runs;
  infile3>>good_runs;
@@ -42,16 +42,21 @@ void Global_median_with_XYZ_corrections::Loop()
  infile3.close();
  std::vector<int> month_vector;
  ifstream infile2;
- infile2.open("second_crossing_tracks_with_angcut.txt");
+ infile2.open("/uboone/app/users/sporzio/Calibration/Output/external_onBeamData_crossNumbers.txt");
  std::string string_1,string_2;
  int p0,p1,p2;
- for(int i=4; i<11; i++) month_vector.push_back(i);
+month_vector.push_back(10);
+month_vector.push_back(11);
+month_vector.push_back(12);
+month_vector.push_back(1);
+month_vector.push_back(2);
+month_vector.push_back(3);
  ofstream outfile;
- outfile.open("second_global_dqdx_all_planes.txt");
+ outfile.open("/uboone/app/users/sporzio/Calibration/Output/second_global_dqdx_all_planes.txt");
  for(int i=0; i<month_vector.size(); i++){
      std::cout << "********************* MONTH : " << month_vector[i] << " ************************" << std::endl;
      ifstream infile;
-     infile.open(Form("dates_of_month_%d.txt",month_vector[i]));
+     infile.open(Form("/uboone/app/users/sporzio/Calibration/Input_GoodRunsList/DaysInMonths/dates_of_month_%d.txt",month_vector[i]));
      int my_date;
      infile>>my_date;
      while(my_date!=-1){
@@ -61,13 +66,11 @@ void Global_median_with_XYZ_corrections::Loop()
 	   if(p0>20 && p1>30 && p2>40){
 	   for(int plane_number=0; plane_number<3; plane_number++){
 	       std::cout << "Plane : " << plane_number << std::endl;
-	       TFile my_file_1(Form("/pnfs/uboone/persistent/users/vmeddage/final_calibration_root_files/YZ_correction_factors_2016_month_2_month_3_month_4_month_5_plane_%d.root",plane_number));
-	       TFile my_file_2(Form("/pnfs/uboone/persistent/users/vmeddage/final_calibration_root_files/YZ_correction_factors_2016_month_6_month_7_plane_%d.root",plane_number));
-	       TFile my_file_3(Form("/pnfs/uboone/persistent/users/vmeddage/final_calibration_root_files/YZ_correction_factors_2016_month_8_month_9_month_10_plane_%d.root",plane_number));
-	       TH2F *four_month_y_z_hist  = (TH2F*)my_file_1.Get("error_dq_dx_z_vs_y_hist");
-	       TH2F *two_month_y_z_hist   = (TH2F*)my_file_2.Get("error_dq_dx_z_vs_y_hist");
-	       TH2F *three_month_y_z_hist = (TH2F*)my_file_3.Get("error_dq_dx_z_vs_y_hist");
-	       TFile x_file(Form("/pnfs/uboone/persistent/users/vmeddage/final_calibration_root_files/X_correction_factors_2016_%d_%d_plane_%d.root",month_vector[i],my_date,plane_number));
+	       TFile my_file_1(Form("/uboone/app/users/sporzio/Calibration/Output/YZ/correctionFactors_YZ_plane%d_part1.root",plane_number));
+        TFile my_file_2(Form("/uboone/app/users/sporzio/Calibration/Output/YZ/correctionFactors_YZ_plane%d_part2.root",plane_number));
+        TH2F *part1_month_hist = (TH2F*)my_file_1.Get("error_dq_dx_z_vs_y_hist");
+        TH2F *part2_month_hist = (TH2F*)my_file_2.Get("error_dq_dx_z_vs_y_hist");
+	      TFile x_file(Form("/uboone/app/users/sporzio/Calibration/Output/X/correctionFactors_X_%d_%d_plane_%d.root",month_vector[i],my_date,plane_number));
 	       TH1F *x_hist=(TH1F*)x_file.Get("dq_dx_x_error_hist");
 	       float upper_angle;
                float lower_angle;
@@ -114,9 +117,8 @@ void Global_median_with_XYZ_corrections::Loop()
 						      if(trkhity[k][plane_number][j]<0) y_bin=int(trkhity[k][plane_number][j])/y_bin_size+23;
 			                              if(trkhity[k][plane_number][j]>=0) y_bin=int(trkhity[k][plane_number][j])/y_bin_size+24;
 						      float yz_correction_factor;
-						      if(month==2 || month==3 || month==4 || month==5) yz_correction_factor=four_month_y_z_hist->GetBinContent(z_bin+1,y_bin+1);
-						      if(month==6 || month==7) yz_correction_factor=two_month_y_z_hist->GetBinContent(z_bin+1,y_bin+1); 
-						      if(month==8 || month==9 || month==10) yz_correction_factor=three_month_y_z_hist->GetBinContent(z_bin+1,y_bin+1);
+						      if(month==10 || month==11 || month==12) yz_correction_factor=part1_month_hist->GetBinContent(z_bin+1,y_bin+1);
+						      if(month==1 || month==2 || month==3) yz_correction_factor=part2_month_hist->GetBinContent(z_bin+1,y_bin+1); 
 						      float x_correcton_factor=x_hist->GetBinContent(x_bin+1);
 						      float corrected_dq_dx=trkdqdx[k][plane_number][j]*yz_correction_factor*x_correcton_factor;
 						      if(corrected_dq_dx!=0) all_dq_dx_value.push_back(corrected_dq_dx);
