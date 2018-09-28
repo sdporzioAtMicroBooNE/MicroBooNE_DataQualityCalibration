@@ -1,16 +1,19 @@
 For more information, see the following documents:
 
-Detector Calibration Public Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=15584&filename=microboone-doc-15584-v13.pdf&version=13
+ - Detector Calibration Public Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=15584&filename=microboone-doc-15584-v13.pdf&version=13
 
-Detector Calibration Internal Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=14754&filename=calibration_technote_v3.pdf&version=3
+ - Detector Calibration Internal Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=14754&filename=calibration_technote_v3.pdf&version=3
 
 
 The dependency list of prerequisites goes as follows:
+
 Bad channel list -> Misconfigured ASICS database -> DQM trees -> Good runs list -> dQ/dX
 
-ASICS: Dependent on populated bad channel databases and the production of BNB_EXT anatrees (only one file per run is needed)
-Good runs list: Dependent on the production of BNB + BNB_EXT DQM trees (produced with the correct ASICS)
-dQ/dX: Dependent on the production of XYZcalibration trees.
+ - ASICS: Dependent on populated bad channel databases and the production of BNB_EXT anatrees (only one file per run is needed)
+ 
+ - Good runs list: Dependent on the production of BNB + BNB_EXT DQM trees (produced with the correct ASICS)
+ 
+ - dQ/dX: Dependent on the production of XYZcalibration trees.
 
 Even though dQ/dX calibration depends on the good runs list, the DQM and XYZ calibration trees can be produced in parallel, but ASICS anatrees will have to be produced beforehand.
 This implies the need for two production campaigns:
