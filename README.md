@@ -1,6 +1,7 @@
 For more information, see the following documents:
 
 Detector Calibration Public Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=15584&filename=microboone-doc-15584-v13.pdf&version=13
+
 Detector Calibration Internal Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=14754&filename=calibration_technote_v3.pdf&version=3
 
 
