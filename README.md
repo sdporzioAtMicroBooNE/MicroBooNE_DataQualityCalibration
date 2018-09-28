@@ -1,3 +1,5 @@
+Code originally written by Varuna Meddage and Tingjun Yang for the relative calibration correction of the MicroBooNE detector.
+
 For more information, see the following documents:
 
  - Detector Calibration Public Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=15584&filename=microboone-doc-15584-v13.pdf&version=13
@@ -26,3 +28,5 @@ This will be a larger campaign that will need to run full reco on the swizzled f
 DQM trees will be used to generate good run list which will go as an input in the dQ/dX script together with the XYZ calibration trees.
 
 So, to start, head to ASICS and read the README file.
+
+
