@@ -1,6 +1,4 @@
-Code originally written by Varuna Meddage and Tingjun Yang for the relative calibration correction of the MicroBooNE detector.
-
-For more information, see the following documents:
+Code originally written by Varuna Meddage and Tingjun Yang for the relative calibration correction of the MicroBooNE detector. For more information, see the following documents:
 
  - Detector Calibration Public Note: https://microboone-docdb.fnal.gov/cgi-bin/private/RetrieveFile?docid=15584&filename=microboone-doc-15584-v13.pdf&version=13
 
