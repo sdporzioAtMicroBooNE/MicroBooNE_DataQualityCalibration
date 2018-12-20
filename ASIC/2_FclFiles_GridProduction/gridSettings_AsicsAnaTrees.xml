@@ -3,18 +3,18 @@
 <!-- Production Project -->
 <!DOCTYPE project [
 <!-- General settings -->
-<!ENTITY user "sporzio">
+<!ENTITY user "ogoodwin">
 <!ENTITY storage_location "scratch">
 <!-- Job settings -->
 <!ENTITY category "Calibration_Asics">
 <!ENTITY name "AnaTrees">
 <!ENTITY event_n "65000"> <!-- Only for reference -->
-<!ENTITY file_n "1800"> <!-- Only for reference -->
-<!ENTITY job_n "400"> <!-- file_n / maxfileperjob_n, if recursive, this is the number in EACH project -->
+<!ENTITY file_n "2368"> <!-- Only for reference -->
+<!ENTITY job_n "478"> <!--  478file_n / maxfileperjob_n, if recursive, this is the number in EACH project -->
 <!ENTITY maxfileperjob_n "5">
 <!ENTITY version "1_1">
 <!-- Larsoft settings -->
-<!ENTITY relreco "v06_26_01_14"> 
+<!ENTITY relreco "v06_26_01_26"> 
 <!-- Main directories definition -->
 <!ENTITY data_dir "/uboone/data/users/&user;">
 <!ENTITY scratch_dir "/pnfs/uboone/scratch/users/&user;">
@@ -42,11 +42,11 @@
     </larsoft>
 
     <stage name="mergeana">
-      <inputdef>sporzio_run3_oneFilePerRun_18-04-17</inputdef>
+      <inputdef>ogoodwin_run3p2_oneFilePerRun_firstfile</inputdef>
       <!-- <recurdef>bnbhsn_swizzle_run3_100kTestSample_part1of2_recurTest</recurdef> -->
       <!-- <recurtype>snapshot</recurtype> -->
       <!-- <recurlimit>&job_n;</recurlimit> -->
-      <fcl>//uboone/app/users/sporzio/Calibration/ASIC/2_FclFiles_GridProduction/standardAna_withReco1_outputDropped.fcl</fcl>
+      <fcl>/uboone/app/users/ogoodwin/MicroBooNE_DataQualityCalibration/ASIC/2_FclFiles_GridProduction/standardAna_withReco1_outputDropped.fcl</fcl>
       <numjobs>&job_n;</numjobs>
       <outdir>&out_dir;/mergeana</outdir>
       <logdir>&log_dir;/mergeana</logdir>
