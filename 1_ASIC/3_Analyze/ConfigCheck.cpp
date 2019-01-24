@@ -16,10 +16,10 @@
 
 using namespace std;
 
-UInt_t startRun = 13000;
-UInt_t endRun = 14500;
-UInt_t nRuns = endRun = startRun;
-std::string inputFile = "/uboone/data/users/sporzio/Temp/mergedAnaTreesForAsics.root";
+UInt_t startRun = 4951;
+UInt_t endRun = 6999;
+UInt_t nRuns = endRun - startRun;
+std::string inputFile = "/uboone/data/users/mrmooney/data/ConfigCheck/newesttest_data.root";
 
 int main(){
 
